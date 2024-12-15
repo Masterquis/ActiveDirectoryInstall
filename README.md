@@ -10,11 +10,10 @@ This lab is a demonstration of renaing a server for easier identification down t
 <h2>Languages and Utilities Used</h2>
 
 - <b>Virtual Box</b> 
-- <b>Windows Server 2016</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b>
+- <b>Windows Server</b>
 
 <h2>Program walk-through:</h2>
 
